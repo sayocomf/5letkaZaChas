@@ -1,0 +1,7 @@
+C:\Users\Yradz\Desktop\5letkaZaChas\prakt13\bin\Debug\prakt13.exe.config
+C:\Users\Yradz\Desktop\5letkaZaChas\prakt13\bin\Debug\prakt13.exe
+C:\Users\Yradz\Desktop\5letkaZaChas\prakt13\bin\Debug\prakt13.pdb
+C:\Users\Yradz\Desktop\5letkaZaChas\prakt13\obj\Debug\prakt13.csproj.AssemblyReference.cache
+C:\Users\Yradz\Desktop\5letkaZaChas\prakt13\obj\Debug\prakt13.csproj.CoreCompileInputs.cache
+C:\Users\Yradz\Desktop\5letkaZaChas\prakt13\obj\Debug\prakt13.exe
+C:\Users\Yradz\Desktop\5letkaZaChas\prakt13\obj\Debug\prakt13.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\praktrabotC\Prakt 9.1\Prakt 9.1\bin\Debug\Prakt 9.1.exe.config
+C:\Users\User\Desktop\praktrabotC\Prakt 9.1\Prakt 9.1\bin\Debug\Prakt 9.1.exe
+C:\Users\User\Desktop\praktrabotC\Prakt 9.1\Prakt 9.1\bin\Debug\Prakt 9.1.pdb
+C:\Users\User\Desktop\praktrabotC\Prakt 9.1\Prakt 9.1\obj\Debug\Prakt 9.1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\praktrabotC\Prakt 9.1\Prakt 9.1\obj\Debug\Prakt 9.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\praktrabotC\Prakt 9.1\Prakt 9.1\obj\Debug\Prakt 9.1.exe
+C:\Users\User\Desktop\praktrabotC\Prakt 9.1\Prakt 9.1\obj\Debug\Prakt 9.1.pdb

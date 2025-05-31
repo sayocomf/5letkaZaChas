@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Prakt7.1\Prakt7.1\bin\Debug\Prakt7.1.exe.config
+C:\Users\User\source\repos\Prakt7.1\Prakt7.1\bin\Debug\Prakt7.1.exe
+C:\Users\User\source\repos\Prakt7.1\Prakt7.1\bin\Debug\Prakt7.1.pdb
+C:\Users\User\source\repos\Prakt7.1\Prakt7.1\obj\Debug\Prakt7.1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Prakt7.1\Prakt7.1\obj\Debug\Prakt7.1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Prakt7.1\Prakt7.1\obj\Debug\Prakt7.1.exe
+C:\Users\User\source\repos\Prakt7.1\Prakt7.1\obj\Debug\Prakt7.1.pdb

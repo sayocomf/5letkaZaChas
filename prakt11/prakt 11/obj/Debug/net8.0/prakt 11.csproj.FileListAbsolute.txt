@@ -1,0 +1,43 @@
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\bin\Debug\net8.0\prakt 11.exe
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\bin\Debug\net8.0\prakt 11.deps.json
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\bin\Debug\net8.0\prakt 11.runtimeconfig.json
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\bin\Debug\net8.0\prakt 11.dll
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\bin\Debug\net8.0\prakt 11.pdb
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\obj\Debug\net8.0\prakt 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\obj\Debug\net8.0\prakt 11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\obj\Debug\net8.0\prakt 11.AssemblyInfo.cs
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\obj\Debug\net8.0\prakt 11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\obj\Debug\net8.0\prakt 11.sourcelink.json
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\obj\Debug\net8.0\prakt 11.dll
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\obj\Debug\net8.0\refint\prakt 11.dll
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\obj\Debug\net8.0\prakt 11.pdb
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\obj\Debug\net8.0\prakt 11.genruntimeconfig.cache
+C:\Users\User\Desktop\praktrabotC\prakt 11\prakt 11\obj\Debug\net8.0\ref\prakt 11.dll
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\bin\Debug\net8.0\prakt 11.exe
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\bin\Debug\net8.0\prakt 11.deps.json
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\bin\Debug\net8.0\prakt 11.runtimeconfig.json
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\bin\Debug\net8.0\prakt 11.dll
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\bin\Debug\net8.0\prakt 11.pdb
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\obj\Debug\net8.0\prakt 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\obj\Debug\net8.0\prakt 11.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\obj\Debug\net8.0\prakt 11.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\obj\Debug\net8.0\prakt 11.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\obj\Debug\net8.0\prakt 11.dll
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\obj\Debug\net8.0\refint\prakt 11.dll
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\obj\Debug\net8.0\prakt 11.pdb
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\obj\Debug\net8.0\prakt 11.genruntimeconfig.cache
+C:\Users\Professional\Desktop\Практик\практика11\prakt 11\obj\Debug\net8.0\ref\prakt 11.dll
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\bin\Debug\net8.0\prakt 11.exe
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\bin\Debug\net8.0\prakt 11.deps.json
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\bin\Debug\net8.0\prakt 11.runtimeconfig.json
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\bin\Debug\net8.0\prakt 11.dll
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\bin\Debug\net8.0\prakt 11.pdb
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\obj\Debug\net8.0\prakt 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\obj\Debug\net8.0\prakt 11.AssemblyInfoInputs.cache
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\obj\Debug\net8.0\prakt 11.AssemblyInfo.cs
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\obj\Debug\net8.0\prakt 11.csproj.CoreCompileInputs.cache
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\obj\Debug\net8.0\prakt 11.dll
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\obj\Debug\net8.0\refint\prakt 11.dll
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\obj\Debug\net8.0\prakt 11.pdb
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\obj\Debug\net8.0\prakt 11.genruntimeconfig.cache
+C:\Users\Yradz\Desktop\5letkaZaChas\--main\практика11\prakt 11\obj\Debug\net8.0\ref\prakt 11.dll
